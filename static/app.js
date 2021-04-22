@@ -3,7 +3,7 @@ const btn = document.querySelector("#url_btn");
 // const btn_copy=document.querySelector("#url_copy");
 // const btn_new=document.querySelector("#url_new");
 const form = btn.closest("form");
-const myCutter = "http://misterpaps.me/cutter/v/#";
+const myCutter = "http://henriquechigumane.github.io/cutter/v/#";
 const body = document.querySelector("body");
 function getRandomId() {
       return (
@@ -120,7 +120,7 @@ function copy(url_copy) {
 
 const testFetch = async () => {
       try {
-            const response = await fetch("https://misterpaps.me/cutter/static/img/1px1.jpg",{
+            const response = await fetch("https://henriquechigumane.github.io/cutter/static/img/1px1.jpg",{
               method:"GET",
               cache:"no-cache"
             });
