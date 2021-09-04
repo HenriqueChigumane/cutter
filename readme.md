@@ -13,7 +13,7 @@ A javascript URL shorter, made with just html/css/javascript and [Jsonbox.io](ht
 
  ## Demo
 > [
-Check it live](http://henriquechigumane.github.io/cutter).
+Check it live](http://themisterpaps.github.io/cutter).
 ### "not working properly beacause jsonbox.io(the json server) was shutdown"
 
 ## Contributing
@@ -25,7 +25,7 @@ Check it live](http://henriquechigumane.github.io/cutter).
 5. Submit a pull request :);
 
 ## License
- This project is under the [MIT License](https://github.com/HenriqueChigumane/cutter/blob/master/LICENSE);
+ This project is under the [MIT License](https://github.com/themisterpaps/cutter/blob/master/LICENSE);
  
  Made With 🍩 by [Mister Paps]((https://instagram.com/themisterpaps);)
 
