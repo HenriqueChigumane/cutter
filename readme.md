@@ -14,6 +14,7 @@ A javascript URL shorter, made with just html/css/javascript and [Jsonbox.io](ht
  ## Demo
 > [
 Check it live](http://henriquechigumane.github.io/cutter).
+### "not working properly beacause jsonbox.io(the json server) was shutdown"
 
 ## Contributing
 

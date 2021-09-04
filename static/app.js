@@ -3,7 +3,7 @@ const btn = document.querySelector("#url_btn");
 // const btn_copy=document.querySelector("#url_copy");
 // const btn_new=document.querySelector("#url_new");
 const form = btn.closest("form");
-const myCutter = "http://henriquechigumane.github.io/cutter/v/#";
+const myCutter = "https://misterpaps.github.io/cutter/v/#";
 const body = document.querySelector("body");
 function getRandomId() {
       return (
