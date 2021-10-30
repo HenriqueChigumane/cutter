@@ -1,5 +1,5 @@
 <div align="center">
-    <img width="450px" src="static\img\logo\svg\cutter_logotype.svg">
+    <img width="450px" src="static\img\logo\svg\cutter_logotype_-_green.svg">
  
 [![GitHub license](https://img.shields.io/github/license/HenriqueChigumane/cutter?logoColor=red)](https://github.com/HenriqueChigumane/colpal/blob/master/LICENSE)
 ![GitHub language count](https://img.shields.io/github/languages/count/henriquechigumane/cutter)
